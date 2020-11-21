@@ -1,0 +1,336 @@
+
+Configuraci¢n IP de Windows
+
+    l-ring.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : l-ring.msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 32
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : l-ring.l-9999.l-msedge.net
+
+
+    Nombre de registro  . : l-ring.l-9999.l-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 32
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : l-9999.l-msedge.net
+
+
+    Nombre de registro  . : l-9999.l-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 32
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.42.254
+
+
+    ogs.google.com
+    ----------------------------------------
+    Nombre de registro  . : ogs.google.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : www3.l.google.com
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.102
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.113
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.100
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.101
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.138
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 260
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.139
+
+
+    fp-vs.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 933
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 933
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 933
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1168
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1168
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1168
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 8
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 8
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 8
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.s-msedge.net
+
+
+    Nombre de registro  . : s-0005.s-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 8
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.113.194.132
+
+
+    www.pbtech.co.nz
+    ----------------------------------------
+    Nombre de registro  . : www.pbtech.co.nz
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1763
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 119.47.116.121
+
+
+    config.nos-avg.cz
+    ----------------------------------------
+    Nombre de registro  . : config.nos-avg.cz
+    Tipo de registro  . . : 16
+    Per¡odo de vida . . . : 14060
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.103
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.147
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.99
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.105
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.104
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.106
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.103
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.147
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.99
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.105
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.104
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 249
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 64.233.180.106
+
+
+    github.com
+    ----------------------------------------
+    Nombre de registro  . : github.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 140.82.113.3
+
+
+    peer2-dal.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : peer2-dal.msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 65
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : m1-0020.m1-msedge.net
+
+
+    Nombre de registro  . : m1-0020.m1-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 65
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.255.59
+
+
+    dns.google
+    ----------------------------------------
+    Nombre de registro  . : dns.google
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 429
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 8.8.8.8
+
+
+    Nombre de registro  . : dns.google
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 429
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 8.8.4.4
+
+
