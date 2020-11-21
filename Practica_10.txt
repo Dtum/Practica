@@ -1,0 +1,21 @@
+*No me permitia utilizarlo con el usuario Administrador, Solo con otro usuario*
+Sat Nov 21 15:50:19 2020: Hive (C:\Users\miste\NTUSER.DAT) is not dirty.
+
+Sat Nov 21 15:50:20 2020: Log opened.
+Sat Nov 21 15:50:20 2020: File: C:\Users\miste\NTUSER.DAT
+Sat Nov 21 15:50:20 2020: Environment set up.
+Sat Nov 21 15:50:23 2020: Launching adobe v.20200522
+Sat Nov 21 15:50:23 2020: Launching allowedenum v.20200511
+Sat Nov 21 15:50:23 2020: Launching appassoc v.20200515
+Sat Nov 21 15:50:23 2020: Launching appcompatflags v.20200525
+Sat Nov 21 15:50:23 2020: Launching appkeys v.20200517
+Sat Nov 21 15:50:23 2020: Launching applets v.20200525
+Sat Nov 21 15:50:23 2020: Launching apppaths v.20200511
+Sat Nov 21 15:50:23 2020: Launching appspecific v.20200515
+Sat Nov 21 15:50:23 2020: Launching appx v.20200427
+Sat Nov 21 15:50:23 2020: Launching arpcache v.20200515
+Sat Nov 21 15:50:23 2020: Launching attachmgr v.20200525
+Sat Nov 21 15:50:24 2020: Launching winrar v.20200526
+Sat Nov 21 15:50:24 2020: Launching winscp v.20200525
+Sat Nov 21 15:50:24 2020: Launching WinZip v.20200526
+Sat Nov 21 15:50:24 2020: Launching wordwheelquery v.20200823
